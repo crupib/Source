@@ -1,0 +1,23 @@
+﻿Build started 11/8/2013 2:00:32 PM.
+     1>Project "C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\xml\xml.vcxproj" on node 2 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Debug\xml.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "x64\Debug\xml.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\xml.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\xml.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt xml.cpp
+         xml.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\x64\Debug\xml.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc11\lib opencv_core246d.lib opencv_imgproc246d.lib opencv_highgui246d.lib opencv_ml246d.lib opencv_video246d.lib opencv_features2d246d.lib opencv_calib3d246d.lib opencv_objdetect246d.lib opencv_contrib246d.lib opencv_legacy246d.lib opencv_flann246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\x64\Debug\xml.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\x64\Debug\xml.lib" /MACHINE:X64 x64\Debug\stdafx.obj
+         x64\Debug\xml.obj
+         xml.vcxproj -> C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\x64\Debug\xml.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\xml.unsuccessfulbuild".
+         Touching "x64\Debug\xml.lastbuildstate".
+     1>Done Building Project "C:\Users\crupib\Documents\Visual Studio 2012\Projects\opencv_image\xml\xml\xml.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.28

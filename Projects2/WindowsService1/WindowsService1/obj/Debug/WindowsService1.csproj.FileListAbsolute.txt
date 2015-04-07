@@ -1,0 +1,6 @@
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\crupib\documents\visual studio 2012\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

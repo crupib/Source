@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe assembly.
+Committing assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe assembly.
+Committing assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = C:\Users\crupib\Documents\Visual Studio 2012\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+Restoring event log to previous state for source Service1.
