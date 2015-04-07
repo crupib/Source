@@ -1,0 +1,180 @@
+﻿Build started 9/23/2014 3:58:46 PM.
+     1>Project "c:\Users\crupib\documents\visual studio 2013\Projects\pathlib\pathlib\pathlib.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\pathlib.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt path.cpp
+         path.cpp
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(63): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(64): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(65): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(66): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(69): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(70): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(71): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(75): error C2144: syntax error : 'float' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(76): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\path.h(76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(14): error C2146: syntax error : missing ';' before identifier 'groupleader'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(53): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(53): error C2040: 'WINAPI' : 'ADCMOD *' differs in levels of indirection from 'int'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54): error C2146: syntax error : missing ';' before identifier 'AdcGetStat'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(57): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(58): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(59): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(59): error C2146: syntax error : missing ';' before identifier 'NmcSendCmd'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(59): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(60): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(60): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(61): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(64): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(64): error C2146: syntax error : missing ';' before identifier 'NmcSetGroupAddr'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(64): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(64): error C2061: syntax error : identifier 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(65): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(65): error C2146: syntax error : missing ';' before identifier 'NmcDefineStatus'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(65): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(66): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(66): error C2146: syntax error : missing ';' before identifier 'NmcReadStatus'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(66): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(67): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(67): error C2146: syntax error : missing ';' before identifier 'NmcSynchOutput'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(67): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(68): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(68): error C2146: syntax error : missing ';' before identifier 'NmcChangeBaud'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(68): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(69): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(69): error C2146: syntax error : missing ';' before identifier 'NmcSynchInput'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(69): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(70): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(70): error C2146: syntax error : missing ';' before identifier 'NmcNoOp'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(70): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(71): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(71): error C2146: syntax error : missing ';' before identifier 'NmcHardReset'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(71): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(74): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(75): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(76): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(77): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(77): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(78): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(78): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(79): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(79): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(79): error C2146: syntax error : missing ';' before identifier 'NmcGroupLeader'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(79): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(6): error C2144: syntax error : 'void' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(7): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(8): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(9): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(9): error C2146: syntax error : missing ';' before identifier 'SioOpen'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C2146: syntax error : missing ';' before identifier 'SioPutChars'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(10): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11): error C2146: syntax error : missing ';' before identifier 'SioGetChars'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C2146: syntax error : missing ';' before identifier 'SioTest'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C2086: 'int DWORD' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(11) : see declaration of 'DWORD'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(12): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C2146: syntax error : missing ';' before identifier 'SioClrInbuf'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(13): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C2146: syntax error : missing ';' before identifier 'SioChangeBaud'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(14): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C2146: syntax error : missing ';' before identifier 'SioClose'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C2146: syntax error : missing ')' before identifier 'ComPort'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\sio_util.h(15): error C2059: syntax error : ')'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(141): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(141): error C2040: 'WINAPI' : 'SERVOMOD *' differs in levels of indirection from 'int'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(141): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(142): error C2144: syntax error : 'int' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(142): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(142): error C2146: syntax error : missing ';' before identifier 'ServoGetStat'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(142): error C2086: 'int BOOL' : redefinition
+                 c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\nmccom.h(54) : see declaration of 'BOOL'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(143): error C2144: syntax error : 'long' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(143): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(144): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(144): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(145): error C2144: syntax error : 'short' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(145): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(146): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(146): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(147): error C2144: syntax error : 'long' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(147): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(148): error C2144: syntax error : 'short' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(148): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(149): error C2144: syntax error : 'byte' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(149): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(150): error C2144: syntax error : 'long' should be preceded by ';'
+     1>c:\users\crupib\documents\visual studio 2013\projects\pathlib\pathlib\picservo.h(150): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "c:\Users\crupib\documents\visual studio 2013\Projects\pathlib\pathlib\pathlib.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.91

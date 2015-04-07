@@ -1,0 +1,19 @@
+﻿Build started 12/3/2014 3:47:08 PM.
+     1>Project "C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\opencv_ex1\opencv_ex1.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\opencv_ex1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt opencv_ex1.cpp
+         Skipping... (no relevant changes detected)
+         opencv_ex1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\x64\Debug\opencv_ex1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_core2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_features2d2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_flann2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\x64\Debug\opencv_ex1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\x64\Debug\opencv_ex1.lib" /MACHINE:X64 x64\Debug\opencv_ex1.obj
+         opencv_ex1.vcxproj -> C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\x64\Debug\opencv_ex1.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\opencv_ex1.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\opencv_ex1.tlog\opencv_ex1.lastbuildstate".
+     1>Done Building Project "C:\Users\crupib\Documents\Visual Studio 2013\Projects1\opencv_ex1\opencv_ex1\opencv_ex1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.76

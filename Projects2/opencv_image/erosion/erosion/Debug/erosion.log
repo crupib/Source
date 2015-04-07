@@ -1,0 +1,27 @@
+﻿Build started 8/15/2014 4:16:51 PM.
+     1>Project "C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\erosion\erosion.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "Debug\erosion.tlog\".
+       InitializeBuildStatus:
+         Creating "Debug\erosion.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         Deleting file "Debug\erosion.pch".
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\erosion.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\erosion.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt erosion.cpp
+         erosion.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\erosion.res" erosion.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\Debug\erosion.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc11\lib opencv_core246d.lib opencv_imgproc246d.lib opencv_highgui246d.lib opencv_ml246d.lib opencv_video246d.lib opencv_features2d246d.lib opencv_calib3d246d.lib opencv_objdetect246d.lib opencv_contrib246d.lib opencv_legacy246d.lib opencv_flann246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\Debug\erosion.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\Debug\erosion.lib" /MACHINE:X86 Debug\erosion.res
+         Debug\erosion.obj
+         Debug\stdafx.obj
+         erosion.vcxproj -> C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\Debug\erosion.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\erosion.tlog\unsuccessfulbuild".
+         Touching "Debug\erosion.tlog\erosion.lastbuildstate".
+     1>Done Building Project "C:\Users\crupib\Documents\Visual Studio 2013\Projects2\opencv_image\erosion\erosion\erosion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.97

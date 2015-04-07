@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <OPENCV_DIR>C:\opencv</OPENCV_DIR>
+    <OPENCV_LIB>C:\opencv\build\x64\vc11\lib</OPENCV_LIB>
+    <OPENCV_DLL>C:\opencv\build\x64\vc11\bin</OPENCV_DLL>
+  </PropertyGroup>
+  <PropertyGroup>
+    <_PropertySheetDisplayName>opencv_x64</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OPENCV_DIR)\build\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(OPENCV_LIB)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opencv_core246d.lib;opencv_imgproc246d.lib;opencv_highgui246d.lib;opencv_ml246d.lib;opencv_video246d.lib;opencv_features2d246d.lib;opencv_calib3d246d.lib;opencv_objdetect246d.lib;opencv_contrib246d.lib;opencv_legacy246d.lib;opencv_flann246d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="OPENCV_DIR">
+      <Value>$(OPENCV_DIR)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OPENCV_LIB">
+      <Value>$(OPENCV_LIB)</Value>
+    </BuildMacro>
+    <BuildMacro Include="OPENCV_DLL">
+      <Value>$(OPENCV_DLL)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

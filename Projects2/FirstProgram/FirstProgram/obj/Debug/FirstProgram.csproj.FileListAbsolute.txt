@@ -1,0 +1,6 @@
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\crupib\documents\visual studio 2012\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb

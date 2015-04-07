@@ -1,0 +1,41 @@
+﻿Build started 6/26/2013 10:24:12 AM.
+     1>Project "C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\facerec\facerec.vcxproj" on node 2 (Rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\cvImage.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\OpenCV244\opencv\build\include\opencv2\objdetect /IC:\OpenCV244\opencv\build\include\opencv2\video /IC:\OpenCV244\opencv\build\include\opencv2\legacy /IC:\OpenCV244\opencv\build\include\opencv2\features2d /IC:\OpenCV244\opencv\build\include\opencv2\calib3d /IC:\OpenCV244\opencv\build\include\opencv2\flann /IC:\OpenCV244\opencv\build\include\opencv2\core /IC:\OpenCV244\opencv\build\include\opencv2\imgproc /IC:\OpenCV244\opencv\include\opencv /IC:\OpenCV244\opencv\build\include\opencv2\objdetect /IC:\OpenCV244\opencv\build\include\opencv2\video /IC:\OpenCV244\opencv\build\include\opencv2\legacy /IC:\OpenCV244\opencv\build\include\opencv2\features2d /IC:\OpenCV244\opencv\build\include\opencv2\calib3d /IC:\OpenCV244\opencv\build\include\opencv2\flann /IC:\OpenCV244\opencv\build\include\opencv2\core /IC:\OpenCV244\opencv\build\include\opencv2\imgproc /IC:\OpenCV244\opencv\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt final_face.cpp
+         final_face.cpp
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(115): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(100): warning C4101: 'eyecascade' : unreferenced local variable
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(149): warning C4101: 'temp_image' : unreferenced local variable
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(149): warning C4101: 'msg' : unreferenced local variable
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(233): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(211): warning C4101: 'temp_image' : unreferenced local variable
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(209): warning C4101: 'key' : unreferenced local variable
+     1>c:\users\crupib\documents\visual studio 2012\projects\final_facerec\facerec\final_face.cpp(206): warning C4101: 'capture' : unreferenced local variable
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\OpenCV244\opencv\build\include\opencv2\objdetect /IC:\OpenCV244\opencv\build\include\opencv2\video /IC:\OpenCV244\opencv\build\include\opencv2\legacy /IC:\OpenCV244\opencv\build\include\opencv2\features2d /IC:\OpenCV244\opencv\build\include\opencv2\calib3d /IC:\OpenCV244\opencv\build\include\opencv2\flann /IC:\OpenCV244\opencv\build\include\opencv2\core /IC:\OpenCV244\opencv\build\include\opencv2\imgproc /IC:\OpenCV244\opencv\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt MyClass.cpp
+         MyClass.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\Debug\cvImage.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV244\opencv\build\x86\vc9\lib opencv_core244.lib opencv_calib3d244.lib opencv_flann244.lib opencv_haartraining_engine.lib opencv_imgproc244.lib opencv_legacy244.lib opencv_objdetect244.lib opencv_video244.lib opencv_highgui244.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\Debug\cvImage.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\Debug\cvImage.lib" /MACHINE:X86 /SAFESEH Debug\final_face.obj
+         Debug\MyClass.obj
+     1>final_face.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         facerec.vcxproj -> C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\Debug\cvImage.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\Debug\cvImage.bsc" /n Debug\final_face.sbr Debug\MyClass.sbr
+       FinalizeBuildStatus:
+         Deleting file "Debug\cvImage.unsuccessfulbuild".
+         Touching "Debug\cvImage.lastbuildstate".
+     1>Done Building Project "C:\Users\crupib\Documents\Visual Studio 2012\Projects\final_facerec\facerec\facerec.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.66

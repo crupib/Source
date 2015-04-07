@@ -1,0 +1,436 @@
+﻿Build started 9/20/2012 12:55:14 PM.
+     1>Project "C:\Users\crupib\documents\visual studio 2012\Projects\LinkList\LinkTest\LinkTest.vcxproj" on node 3 (Rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\LinkTest.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\LinkTest.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr:safe /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DefaultTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr:safe /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DefaultTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp UnitTest.cpp
+         AssemblyInfo.cpp
+         UnitTest.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vadefs.h(81): error C4956: 'va_list *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vadefs.h(82): error C4956: 'va_list *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vadefs.h(82): error C4956: 'void *(va_list *,...)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vadefs.h(83): error C4956: 'va_list *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(569): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(576): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1981): error C4956: 'threadlocaleinfostruct *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1982): error C4956: 'threadmbcinfostruct *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1986): error C4959: cannot define unmanaged struct 'localeinfo_struct' in /clr:safe because accessing its members yields unverifiable code
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1989): error C4956: 'localeinfo_struct *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1992): error C4959: cannot define unmanaged struct 'localerefcount' in /clr:safe because accessing its members yields unverifiable code
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1993): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1994): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1995): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1996): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(1999): error C4959: cannot define unmanaged struct 'threadlocaleinfostruct' in /clr:safe because accessing its members yields unverifiable code
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2007): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2008): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2009): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2010): error C4956: 'lconv *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2011): error C4956: 'int *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2012): error C4956: 'unsigned short *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2013): error C4956: 'const unsigned short *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2014): error C4956: 'const unsigned char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2015): error C4956: 'const unsigned char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2016): error C4956: '__lc_time_data *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h(2017): error C4956: 'wchar_t *[6]' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(56): error C4959: cannot define unmanaged struct '_iobuf' in /clr:safe because accessing its members yields unverifiable code
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(57): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(59): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(64): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(129): error C4956: 'FILE *(void)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(170): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(171): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(176): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(176): error C4956: 'FILE *(const char *,const char *,int)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(179): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(181): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(183): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(189): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(189): error C4956: 'FILE *(int,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(192): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(193): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(194): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(195): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(197): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(197): error C4956: 'fpos_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(198): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(198): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(198): error C4956: 'char *(char *,int,FILE *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(203): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(211): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(211): error C4956: 'char *(const char *,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218): error C4956: 'FILE *(const char *,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(220): error C4956: 'FILE **' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(220): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(222): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(222): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(224): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(224): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(226): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(228): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(228): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(229): error C4956: 'void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(229): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(231): error C4956: 'void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(231): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(233): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(233): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(233): error C4956: 'FILE *(const char *,const char *,FILE *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(235): error C4956: 'FILE **' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(235): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(235): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(238): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(238): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(242): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(242): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(244): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(244): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(246): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(246): error C4956: 'const fpos_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(247): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(248): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(250): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(251): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(253): error C4956: 'const void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(253): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(254): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(258): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(258): error C4956: 'char *(char *,rsize_t)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(261): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(261): error C4956: 'char *(char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(262): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(265): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(268): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(269): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(269): error C4956: 'FILE *(const char *,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(271): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(273): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(275): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(277): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(278): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(281): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(282): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(283): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(285): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(288): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(291): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(295): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(297): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(299): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(299): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(303): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(303): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(304): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(304): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(307): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(307): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(310): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(312): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(316): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(318): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(319): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(320): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(321): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(322): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(324): error C4956: 'FILE *(void)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(326): error C4956: 'FILE **' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(327): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(330): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(330): error C4956: 'char *(char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(331): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(332): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(332): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(334): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(334): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(336): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(338): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(340): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(340): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(342): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(342): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(345): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(345): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(352): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(352): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(359): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(360): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(360): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(361): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(361): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(363): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(363): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(364): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(365): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(365): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(366): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(366): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(367): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(368): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(368): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(369): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(370): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(374): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(375): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(376): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(377): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(378): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(379): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(381): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(381): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(382): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(382): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(383): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(383): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(384): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(384): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(385): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(385): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(386): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(386): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(388): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(388): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(389): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(389): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(390): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(390): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(391): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(391): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(392): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(392): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(393): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(393): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(395): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(396): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(397): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(398): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(400): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(400): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(401): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(401): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(402): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(402): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(403): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(403): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(404): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(404): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(405): error C4956: 'char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(405): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(418): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(418): error C4956: 'FILE *(const wchar_t *,const wchar_t *,int)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(421): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(423): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(425): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(427): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(429): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(431): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(431): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(431): error C4956: 'wchar_t *(wchar_t *,int,FILE *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(432): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(432): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(433): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(433): error C4956: 'wchar_t *(wchar_t *,size_t)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(435): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(435): error C4956: 'wchar_t *(wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(436): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(438): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(438): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(440): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(440): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(442): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(444): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(446): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(447): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(447): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(449): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(449): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(451): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(453): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(457): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(457): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(461): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(461): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(465): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(465): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(466): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(466): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(468): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(468): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(470): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(470): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(474): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(474): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(477): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(477): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(478): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(479): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(479): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(480): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(481): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(481): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(482): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(482): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(483): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(484): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(486): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(487): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(488): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(489): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(490): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(491): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(493): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(493): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(494): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(494): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(495): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(495): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(496): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(496): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(497): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(497): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(498): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(498): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(500): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(500): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(501): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(501): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(502): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(502): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(503): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(503): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(504): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(504): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(505): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(505): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(507): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(508): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(509): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(511): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(511): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(512): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(512): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(513): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(513): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(514): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(514): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(530): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(530): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(531): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(531): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(36): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(36): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(40): error C4956: 'const char &' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(40): error C4957: 'reinterpret_cast' : explicit cast from 'const wchar_t *' to 'const char &' is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(40): error C3382: 'sizeof' is not supported with /clr:safe
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(49): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(49): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(60): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(60): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(64): error C4956: 'const char &' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(64): error C4957: 'reinterpret_cast' : explicit cast from '_locale_t' to 'const char &' is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(64): error C3382: 'sizeof' is not supported with /clr:safe
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(73): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(73): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(85): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(85): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(88): error C4956: 'const char &' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(88): error C4957: 'reinterpret_cast' : explicit cast from 'const wchar_t *' to 'const char &' is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(88): error C3382: 'sizeof' is not supported with /clr:safe
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(97): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(97): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(105): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(105): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(108): error C4956: 'const char &' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(108): error C4957: 'reinterpret_cast' : explicit cast from '_locale_t' to 'const char &' is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(108): error C3382: 'sizeof' is not supported with /clr:safe
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(117): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl(117): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(552): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(552): error C4956: 'wchar_t *(const wchar_t *,const wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(558): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(559): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(560): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(560): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(561): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(561): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(565): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(565): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(567): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(567): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(568): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(569): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(571): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(573): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(574): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(575): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(576): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(577): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(578): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(579): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(581): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(583): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(586): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(586): error C4956: 'FILE *(int,const wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(587): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(587): error C4956: 'FILE *(const wchar_t *,const wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(588): error C4956: 'FILE **' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(588): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(589): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(589): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(589): error C4956: 'FILE *(const wchar_t *,const wchar_t *,FILE *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(590): error C4956: 'FILE **' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(590): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(590): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(594): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(597): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(597): error C4956: 'FILE *(const wchar_t *,const wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(599): error C4956: 'const wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(600): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(602): error C4956: 'wchar_t *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(602): error C4956: 'wchar_t *(wchar_t *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(604): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(605): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(606): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(663): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(664): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(666): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(667): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(668): error C4956: 'void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(668): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(669): error C4956: 'void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(669): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(670): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(671): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(672): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(673): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(674): error C4956: 'const void *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(674): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(675): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(702): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(702): error C4956: 'char *(const char *,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(709): error C4956: 'const char *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(709): error C4956: 'FILE *(int,const char *)' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(711): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(714): error C4956: 'FILE *' : this type is not verifiable
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(715): error C4956: 'FILE *' : this type is not verifiable
+     1>UnitTest.cpp(7): fatal error C1083: Cannot open include file: 'linklist.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\crupib\documents\visual studio 2012\Projects\LinkList\LinkTest\LinkTest.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69

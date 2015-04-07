@@ -1,0 +1,13 @@
+D/bin////////
+D/obj////////
+D/Properties////////
+/App.config////*////
+/Form1.Designer.cs////*////
+/Form1.cs////*////
+/Form1.resx////*////
+/Program.cs////*////
+/SQLServer_connect.csproj////*////
+/crupidbDataSet.Designer.cs////*////
+/crupidbDataSet.xsc////*////
+/crupidbDataSet.xsd////*////
+/crupidbDataSet.xss////*////

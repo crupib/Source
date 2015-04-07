@@ -1,0 +1,6 @@
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\bin\Debug\testnodotnet.exe.config
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\bin\Debug\testnodotnet.exe
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\bin\Debug\testnodotnet.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\obj\Debug\testnodotnet.exe
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\obj\Debug\testnodotnet.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\testnodotnet\testnodotnet\obj\Debug\testnodotnet.csprojResolveAssemblyReference.cache

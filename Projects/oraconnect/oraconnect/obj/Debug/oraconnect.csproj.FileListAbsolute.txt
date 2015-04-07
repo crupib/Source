@@ -1,0 +1,5 @@
+c:\users\crupib\documents\visual studio 2013\Projects\oraconnect\oraconnect\bin\Debug\oraconnect.exe.config
+c:\users\crupib\documents\visual studio 2013\Projects\oraconnect\oraconnect\bin\Debug\oraconnect.exe
+c:\users\crupib\documents\visual studio 2013\Projects\oraconnect\oraconnect\bin\Debug\oraconnect.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\oraconnect\oraconnect\obj\Debug\oraconnect.exe
+c:\users\crupib\documents\visual studio 2013\Projects\oraconnect\oraconnect\obj\Debug\oraconnect.pdb

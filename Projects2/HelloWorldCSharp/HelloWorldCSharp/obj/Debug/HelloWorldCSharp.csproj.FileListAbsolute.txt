@@ -1,0 +1,6 @@
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe.config
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.pdb
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csprojResolveAssemblyReference.cache
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.exe
+c:\users\crupib\documents\visual studio 2012\Projects\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.pdb

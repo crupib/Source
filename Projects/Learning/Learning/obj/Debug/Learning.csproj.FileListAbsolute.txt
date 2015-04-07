@@ -1,0 +1,9 @@
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.exe.config
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.exe
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.Form1.resources
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.Properties.Resources.resources
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.csproj.GenerateResource.Cache
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.exe
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache

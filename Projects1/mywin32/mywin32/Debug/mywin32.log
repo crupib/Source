@@ -1,0 +1,38 @@
+﻿Build started 4/17/2012 12:40:52 PM.
+     1>Project "C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\mywin32\mywin32.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\mywin32.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\mywin32.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\mywin32.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mywin32.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mywin32.cpp
+         mywin32.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\mywin32.res" mywin32.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\mywin32.exe.embed.manifest.res" Debug\mywin32_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mywin32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.lib" /MACHINE:X86 Debug\mywin32.res
+         Debug\mywin32.exe.embed.manifest.res
+         Debug\mywin32.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\mywin32.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mywin32.exe.embed.manifest" /manifest Debug\mywin32.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\mywin32.exe.embed.manifest.res" Debug\mywin32_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mywin32.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.lib" /MACHINE:X86 Debug\mywin32.res
+         Debug\mywin32.exe.embed.manifest.res
+         Debug\mywin32.obj
+         Debug\stdafx.obj
+         mywin32.vcxproj -> C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\Debug\mywin32.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\mywin32.unsuccessfulbuild".
+         Touching "Debug\mywin32.lastbuildstate".
+     1>Done Building Project "C:\Users\crupib\documents\visual studio 2010\Projects\mywin32\mywin32\mywin32.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98

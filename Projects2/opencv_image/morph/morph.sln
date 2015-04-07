@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "morph", "morph\morph.vcxproj", "{36C29609-C4DC-4F23-A24D-929F209CF601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C29609-C4DC-4F23-A24D-929F209CF601}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36C29609-C4DC-4F23-A24D-929F209CF601}.Debug|Win32.Build.0 = Debug|Win32
+		{36C29609-C4DC-4F23-A24D-929F209CF601}.Release|Win32.ActiveCfg = Release|Win32
+		{36C29609-C4DC-4F23-A24D-929F209CF601}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

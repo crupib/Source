@@ -1,0 +1,9 @@
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.exe.config
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.exe
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.pdb
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Form1.resources
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Properties.Resources.resources
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csproj.GenerateResource.Cache
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.exe
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.pdb
+C:\Users\crupib\documents\visual studio 2013\Projects\ConnectCsharpToMysql\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csprojResolveAssemblyReference.cache
