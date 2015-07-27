@@ -1,0 +1,9 @@
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\bin\Debug\SQLServer_connect.exe.config
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\bin\Debug\SQLServer_connect.exe
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\bin\Debug\SQLServer_connect.pdb
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.csprojResolveAssemblyReference.cache
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.Form1.resources
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.Properties.Resources.resources
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.csproj.GenerateResource.Cache
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.exe
+c:\users\crupib\documents\visual studio 2013\Projects\SQLServer_connect\SQLServer_connect\obj\Debug\SQLServer_connect.pdb
