@@ -26,6 +26,7 @@ int main(int argc, char** argv)
 	Mat new_Sharp_image = Mat::zeros(image.size(), image.type());
 	Mat thumbnail = Mat::zeros(image.size(), image.type());
 	Mat rotate = Mat::zeros(image.size(), image.type());
+	Mat contrast_stretch = Mat::zeros(image.size(), image.type());
 
 	double imagesize;
 	/// Initialize values
@@ -50,6 +51,7 @@ int main(int argc, char** argv)
 	cv::resize(image, thumbnail, size);
 	cv::GaussianBlur(image, new_Sharp_image, cv::Size(0, 0), 3);
 	cv::addWeighted(image, 1.5, new_Sharp_image, -0.5, 0, new_Sharp_image);
+	cv::normalize (image, contrast_stretch, 0, 127, CV_MINMAX);
 	myrotate(image, 90, rotate);
 	/// Create Windows
 	namedWindow("Original Image", 1);
@@ -57,6 +59,7 @@ int main(int argc, char** argv)
 	namedWindow("Sharpen", 1);
 	namedWindow("thumbnail", 1);
 	namedWindow("rotate", 1);
+	namedWindow("Contrast Stretch", 1);
 
 
 	/// Show stuff
@@ -64,7 +67,7 @@ int main(int argc, char** argv)
 	imshow("New Image", new_image);
 	imshow("thumbnail Image", thumbnail);
 	imshow("Sharpen Image", new_Sharp_image);
-	imshow("rotate image", rotate);
+	imshow("Contrast Stretch", contrast_stretch);
 	/// Wait until user press some key
 	waitKey();
 	return 0;
